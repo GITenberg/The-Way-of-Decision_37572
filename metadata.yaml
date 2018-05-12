@@ -1,0 +1,25 @@
+_repo: The-Way-of-Decision_37572
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pease, M. C.
+    gutenberg_agent_id: '33866'
+    url: http://www.gutenberg.org/2009/agents/33866
+description: ''
+gutenberg_issued: '2011-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Group marriage -- Fiction'
+title: The Way of Decision
+url: http://www.gutenberg.org/ebooks/37572
